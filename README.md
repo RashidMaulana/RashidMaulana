@@ -2,7 +2,7 @@
 
 Nama saya **Rashid Adani Maulana Jatri**.
 
-Sekarang saya sedang menempuh kuliah untuk mendapatkan gelar sarjana di bidang studi informatika.
+Sekarang saya sedang mencari pekerjaan sebagai seorang software engineer.
 
 
 <p align="left">
